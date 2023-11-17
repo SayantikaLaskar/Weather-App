@@ -4,7 +4,8 @@ Weather App ☀️🌧️
 
 The Weather App project! 🌍⛅️ This application provides real-time weather information, forecasts, and intuitive features to keep you updated on the current and upcoming weather conditions.
 
-Features
+Features:
+
 -Real-time Weather Data: Access the latest weather updates for your location or any city worldwide.
 
 -Forecast: Plan ahead with accurate and detailed weather forecasts for the next few days.
